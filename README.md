@@ -1,5 +1,5 @@
 # Algorithms
-Practice algorithms  for fun/Competitive Coding - in Python and Java.
+Practice algorithms  for fun/Competitive Coding - in Python and Java. In progress...
 
 Contains some practical algorithms/data structures that may be adapted to efficently solve most algorithmic problems.
 
