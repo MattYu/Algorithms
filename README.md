@@ -8,3 +8,4 @@ http://codeforces.com/blog/entry/13529
 
 # Books
 Algorithm Design, Jon Kleinberg and Éva Tardos
+Competitive Programmer's Handbook, Antti Laaksonen
